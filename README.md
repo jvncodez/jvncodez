@@ -82,13 +82,29 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ---
 
-### 🧑‍💻 Portfólio Pessoal (em desenvolvimento)  
-> Página com design moderno para recrutadores, com interatividade, especialidades técnicas e formulário de contato com back-end em PHP.
+### 🧑‍💻 Portfólio Pessoal (2022 – em desuso)  
+> Página criada com foco em apresentação profissional para recrutadores, utilizando um formulário de contato com back-end em PHP.
 
 🛠️ HTML, CSS, JavaScript, PHP (formulário via `fetch`)  
-📬 Integração com e-mail e foco em apresentação de trajetória profissional
+📬 Integração com e-mail via PHP
+
+❌ **Motivo do desuso**: A nova versão do portfólio substitui o formulário tradicional por um sistema de envio direto via **API do WhatsApp**, permitindo que os visitantes entrem em contato com apenas um clique, de forma instantânea e prática.
 
 ---
+
+### 🧑‍💼 Portfólio Pessoal (Atual – com integração WhatsApp)  
+> Página interativa e moderna desenvolvida para destacar minha trajetória profissional, habilidades técnicas e facilitar o contato direto via WhatsApp.
+
+📱 **Diferencial**: Substituição do formulário por um botão de envio via **API do WhatsApp**, permitindo contato ágil e direto com recrutadores.  
+🛠️ **Tecnologias**: HTML, CSS, JavaScript, API do WhatsApp, integração mobile-friendly  
+🔗 **Repositório**: [jvncodez/jvnCodez-portifolio](https://github.com/jvncodez/jvnCodez-portifolio)
+
+<div align="center">
+  <a href="https://github.com/jvncodez/jvnCodez-portifolio" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfólio%20Atual-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfólio Atual" />
+  </a>
+</div>
+
 
 ### 📦 App Gráfico do Blackout (em desenvolvimento)  
 > Recriação do script `.bat` do Blackout como aplicativo com interface gráfica em Python.
