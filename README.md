@@ -87,7 +87,7 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ---
 
-## 🐍 Minhas Contribuições
+
 
 ## 🐍 Minhas Contribuições
 
