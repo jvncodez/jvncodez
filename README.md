@@ -89,9 +89,14 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ## 🐍 Minhas Contribuições
 
+## 🐍 Minhas Contribuições
+
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jvncodez/jvncodez/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/jvncodez">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jvncodez/jvncodez/output/github-contribution-grid-snake.svg" />
+  </a>
 </div>
+
 
 ---
 
