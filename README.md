@@ -20,7 +20,7 @@
 Sou um profissional de tecnologia com foco em **infraestrutura, automação e suporte técnico**.  
 Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários internos e hóspedes, realizando manutenção de equipamentos e redes, e buscando constantemente otimizar processos.
 
-🚀 Destaque: Desenvolvedor do **Blackout**, sistema que aumentou a eficiência do suporte técnico ao reduzir falhas operacionais.
+🚀 Destaque: Desenvolvedor do **Blackout**, sistema que aumentou a eficiência do suporte técnico ao reduzir **tempo** de uso do boot + adb, visando **rapidez** na demanda..
 
 ---
 
