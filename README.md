@@ -8,7 +8,7 @@
 
 <div align="center">
 
-💬 Fale comigo sobre *automação com PowerShell, suporte técnico, HTML/CSS/JS,projetos de infraestrutura,skyone,cpd, infrasec e python! sou facinado por tecnologia!*
+💬 Fale comigo sobre *automação com PowerShell, suporte técnico, HTML/CSS/JS,projetos de infraestrutura geral,infrasec e python! sou facinado por tecnologia!*
 
 
 </div>
