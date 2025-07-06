@@ -54,20 +54,49 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ## 💼 Projetos
 
-### 🔧 Blackout  
-> Sistema interno para otimizar falhas técnicas em ambientes de hotelaria.
+### ⚙️ Blackout  
+> Sistema de automação de processos técnicos em ambientes de hotelaria.
 
-📌 **Objetivo**: Agilizar o atendimento e reduzir o tempo de resposta  
-🛠️ **Tecnologias**: PowerShell, lógica de automação, integração com ambiente interno
+📌 **Descrição**: Automatiza o boot de dispositivos Android via ADB, excluindo aplicativos internos como Google Play Store, App Story, entre outros, para otimizar desempenho e reduzir falhas operacionais.  
+🛠️ **Tecnologias**: PowerShell, ADB (Android Debug Bridge), scripts `.bat`, lógica de automação  
+🏨 **Uso real**: Implementado em ambiente de hotelaria para agilizar atendimentos técnicos e reduzir falhas no uso de PDSVs e terminais.
+
+---
+
+### 🌱 Hortec – Hortas Automatizadas (2023)  
+> Projeto de automação agrícola com Arduino, realizado na Escola Estadual Luiz Alves Lacerda.
+
+📌 **Descrição**: Sistema de irrigação automatizada usando sensores de umidade e microcontroladores. Desenvolvido com foco em sustentabilidade, automação e tecnologia aplicada à agricultura escolar.  
+🛠️ **Tecnologias**: Arduino, sensores analógicos, C++, automação simples  
+🏫 **Apresentado em**: Feira tecnológica escolar
 
 ---
 
 ### 💻 Página Web Interativa  
-> Projeto pessoal com foco em front-end interativo.
+> Projeto pessoal com foco em front-end e interatividade web.
 
 📷 Carrossel de imagens  
 🎵 Integração com Spotify  
-🎨 Animações com confetes e manipulação de DOM
+🎨 Animações com confetes e manipulação de DOM  
+🛠️ HTML, CSS, JavaScript
+
+---
+
+### 🧑‍💻 Portfólio Pessoal (em desenvolvimento)  
+> Página com design moderno para recrutadores, com interatividade, especialidades técnicas e formulário de contato com back-end em PHP.
+
+🛠️ HTML, CSS, JavaScript, PHP (formulário via `fetch`)  
+📬 Integração com e-mail e foco em apresentação de trajetória profissional
+
+---
+
+### 📦 App Gráfico do Blackout (em desenvolvimento)  
+> Recriação do script `.bat` do Blackout como aplicativo com interface gráfica em Python.
+
+🔐 Tela de login com senha mestre oculta  
+🔄 Página de troca de senha  
+📲 Execução de comandos ADB integrados via interface  
+🛠️ Python, Tkinter, adb.exe, automação de scripts
 
 ---
 
