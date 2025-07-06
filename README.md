@@ -99,6 +99,7 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 🛠️ **Tecnologias**: HTML, CSS, JavaScript, API do WhatsApp, integração mobile-friendly  
 🔗 **Repositório**: [jvncodez/jvnCodez-portifolio](https://github.com/jvncodez/jvnCodez-portifolio)
 
+<br>
 <div align="center">
   <a href="https://github.com/jvncodez/jvnCodez-portifolio" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Portfólio%20Atual-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfólio Atual" />
