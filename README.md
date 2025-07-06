@@ -37,9 +37,18 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ## ⚙️ Ferramentas & Tecnologias
 
+<h2 align="center">🛠️ Ferramentas & Tecnologias</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,powershell,windows,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,powershell,windows,vscode,cpp,python,linux" />
 </div>
+
+<br/>
+
+<p align="center">
+  🧪 Também desenvolvo scripts com <strong>.bat</strong> e <strong>cmd</strong> para automações no Windows, e pratico <strong>cybersegurança</strong> com foco em <strong>Kali Linux</strong>, usando ferramentas de análise, testes de penetração e hardening de sistemas.
+</p>
+
 
 ---
 
