@@ -46,7 +46,7 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 <br/>
 
 <p align="center">
-  🧪 Também desenvolvo scripts com <strong>.bat</strong> e <strong>cmd</strong> para automações no Windows, e pratico <strong>cybersegurança</strong> com foco em <strong>Kali Linux</strong>, usando ferramentas de análise, testes de penetração e hardening de sistemas.
+  🧪 Também desenvolvo scripts com <strong>.bat</strong>  para automações no Windows, e pratico <strong>cybersegurança</strong> com foco em <strong>Kali Linux</strong>, usando ferramentas de análise, testes de penetração e hardening de sistemas.
 </p>
 
 
