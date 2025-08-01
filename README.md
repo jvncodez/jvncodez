@@ -37,7 +37,7 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ## ⚙️ Ferramentas & Tecnologias
 
-<h2 align="center">🛠️ Ferramentas & Tecnologias</h2>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,powershell,windows,vscode,cpp,python,linux" />
