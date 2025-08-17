@@ -28,7 +28,8 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 - ✅ Suporte helpdesk e atendimento técnico  
 - ✅ Manutenção e instalação de equipamentos (PDSVs, roteadores, terminais)  
-- ✅ SkyOne, AutoSky, Windows Server (básico)  
+- ✅ SkyOne, AutoSky, Windows Server (básico)
+- ✅ Python (Basico)   
 - ✅ PowerShell e automações simples  
 - ✅ HTML • CSS • JavaScript (projetos pessoais)  
 - ✅ Git e GitHub para versionamento
