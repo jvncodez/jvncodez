@@ -1,139 +1,220 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jvncodez.jvncodez" />
 
-<h1 align="center">Olá, eu sou o João Victor 👋</h1>
+<h1 align="center">João Silva (Jotavê) 👋</h1>
 
-<h3 align="center">Profissional de TI com foco em Infraestrutura, Automação e Desenvolvimento</h3>
-
-<br/>
-
-<div align="center">
-
-💬 Fale comigo sobre *automação com PowerShell, suporte técnico, HTML/CSS/JS,projetos de infraestrutura geral,infrasec e python! sou facinado por tecnologia!*
-
-
-</div>
-
----
-
-## 🧠 Sobre mim
-
-Sou um profissional de tecnologia com foco em **infraestrutura, automação e suporte técnico**.  
-Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários internos e hóspedes, realizando manutenção de equipamentos e redes, e buscando constantemente otimizar processos.
-
-🚀 Destaque: Desenvolvedor do **Blackout**, sistema que aumentou a eficiência do suporte técnico ao reduzir **tempo** de uso do boot + adb, visando **rapidez** na demanda..
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- ✅ Suporte helpdesk e atendimento técnico  
-- ✅ Manutenção e instalação de equipamentos (PDSVs, roteadores, terminais)  
-- ✅ SkyOne, AutoSky, Windows Server (básico)
-- ✅ Python (Basico)   
-- ✅ PowerShell e automações simples  
-- ✅ HTML • CSS • JavaScript (projetos pessoais)  
-- ✅ Git e GitHub para versionamento
-
----
-
-## ⚙️ Ferramentas & Tecnologias
-
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,powershell,windows,vscode,cpp,python,linux" />
-</div>
+<h3 align="center">Software Architect | Backend | CyberSecurity | SaaS</h3>
 
 <br/>
 
-<p align="center">
-  🧪 Também desenvolvo scripts com <strong>.bat</strong>  para automações no Windows, e pratico <strong>cybersegurança</strong> com foco em <strong>Kali Linux</strong>, usando ferramentas de análise, testes de penetração e hardening de sistemas.
-</p>
-
-
----
-
-## 💼 Projetos
-
-### ⚙️ Blackout  
-> Sistema de automação de processos técnicos em ambientes de hotelaria.
-
-📌 **Descrição**: Automatiza o boot de dispositivos Android via ADB, excluindo aplicativos internos como Google Play Store, App Story, entre outros, para otimizar desempenho e reduzir falhas operacionais.  
-🛠️ **Tecnologias**: PowerShell, ADB (Android Debug Bridge), scripts `.bat`, lógica de automação  
-🏨 **Uso real**: Implementado em ambiente de hotelaria para agilizar atendimentos técnicos e reduzir falhas no uso de PDSVs e terminais.
-
----
-
-### 🌱 Hortec – Hortas Automatizadas (2023)  
-> Projeto de automação agrícola com Arduino, realizado na Escola Estadual Luiz Alves Lacerda.
-
-📌 **Descrição**: Sistema de irrigação automatizada usando sensores de umidade e microcontroladores. Desenvolvido com foco em sustentabilidade, automação e tecnologia aplicada à agricultura escolar.  
-🛠️ **Tecnologias**: Arduino, sensores analógicos, C++, automação simples  
-🏫 **Apresentado em**: Feira tecnológica escolar
-
----
-
-### 💻 Página Web Interativa  
-> Projeto pessoal com foco em front-end e interatividade web.
-
-📷 Carrossel de imagens  
-🎵 Integração com Spotify  
-🎨 Animações com confetes e manipulação de DOM  
-🛠️ HTML, CSS, JavaScript
-
----
-
-### 🧑‍💻 Portfólio Pessoal (2022 – em desuso)  
-> Página criada com foco em apresentação profissional para recrutadores, utilizando um formulário de contato com back-end em PHP.
-
-🛠️ HTML, CSS, JavaScript, PHP (formulário via `fetch`)  
-📬 Integração com e-mail via PHP
-
-❌ **Motivo do desuso**: A nova versão do portfólio substitui o formulário tradicional por um sistema de envio direto via **API do WhatsApp**, permitindo que os visitantes entrem em contato com apenas um clique, de forma instantânea e prática.
-
----
-
-### 🧑‍💼 Portfólio Pessoal (Atual – com integração WhatsApp)  
-> Página interativa e moderna desenvolvida para destacar minha trajetória profissional, habilidades técnicas e facilitar o contato direto via WhatsApp.
-
-📱 **Diferencial**: Substituição do formulário por um botão de envio via **API do WhatsApp**, permitindo contato ágil e direto com recrutadores.  
-🛠️ **Tecnologias**: HTML, CSS, JavaScript, API do WhatsApp, integração mobile-friendly  
-🔗 **Repositório**: [jvncodez/jvnCodez-portifolio](https://github.com/jvncodez/jvnCodez-portifolio)
-
-<br>
 <div align="center">
-  <a href="https://github.com/jvncodez/jvnCodez-portifolio" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Portfólio%20Atual-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfólio Atual" />
-  </a>
+
+"I Don’t Just Build Systems. I Architect Digital Foundations."
+
+Architecture • Security • Scalability
+
 </div>
 
+---
 
-### 📦 App Gráfico do Blackout (em desenvolvimento)  
-> Recriação do script `.bat` do Blackout como aplicativo com interface gráfica em Python.
+## 🧠 About Me
 
-🔐 Tela de login com senha mestre oculta  
-🔄 Página de troca de senha  
-📲 Execução de comandos ADB integrados via interface  
-🛠️ Python, Tkinter, adb.exe, automação de scripts
+I am a Software Architect in evolution, currently acting as Coordinator of Development and Operations, focused on backend architecture, secure systems and scalable SaaS solutions.
+
+My work combines:
+
+- Structural backend design  
+- API integrations  
+- Serverless architecture  
+- Automation systems  
+- Cybersecurity applied from the foundation  
+
+I don’t just develop features — I design resilient digital structures.
 
 ---
 
-## 📚 Em constante evolução
+## 🏛 Technical Philosophy
 
-📌 Estudando:
+Architecture is not about writing code fast.  
+It is about designing systems that resist.
 
-- ⚙️ Shell Script (Linux)
-- 🐍 Python para automações
-- 🌐 Node.js básico
-- 🧪 Boas práticas de CI/CD
+Security is not an add-on.  
+It is foundation.
+
+Scalability is not improvisation.  
+It is planning.
+
+Every system I design stands on three pillars:
+
+Structure.  
+Protection.  
+Scale.  
+
+Because a ship without a hull never reaches the river.
 
 ---
 
-## 📬 Contato
+## 🛠 Core Expertise
+
+### 🔹 Backend Architecture
+- Node.js
+- TypeScript
+- REST APIs
+- System integrations
+- Modular architecture
+- Clean Code principles
+
+### 🔹 Vibe Code & Serverless Architecture
+- Vercel
+- Supabase (Edge Functions)
+- Modal
+- Cursor
+- API-first architecture
+
+### 🔹 Programming Languages
+- Python (including AI agents applications)
+- JavaScript
+- TypeScript
+- C++ (Arduino)
+
+### 🔹 Databases
+- MySQL
+- Supabase
+
+### 🔹 Automation
+- n8n
+- PowerShell
+- .bat scripting
+- Process optimization
+
+### 🔹 Cloud & Infrastructure
+- Docker
+- IT Infrastructure
+- Network Infrastructure
+- AWS (AWS Academy training)
+
+### 🔹 CyberSecurity
+- Vulnerability analysis
+- Pentest practices
+- Ethical hacking fundamentals
+- Security by design mindset
+
+### 🔹 Version Control
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Hortec – Automated Agriculture System
+Award-winning educational project.
+
+Designed and developed an automated irrigation system using Arduino (C++) to reduce school absenteeism related to garden maintenance.
+
+Focus:
+Hardware + Software integration  
+Automation logic  
+Problem-solving with real-world impact  
+
+---
+
+### 🏥 SayMed – Dental Clinic Management System
+
+Backend architecture and system structuring.
+
+Responsibilities:
+- Database modeling
+- API communication
+- Supabase Edge Functions
+- n8n automation integrations
+- Clean architecture implementation
+
+Focus:
+Scalability  
+Structured backend  
+Service integration  
+
+---
+
+### 🚀 VenttureHearth – SaaS Startup
+
+Acting as Coordinator of Development and Operations.
+
+Responsibilities:
+- SaaS architecture design
+- Backend structuring
+- Automation workflows
+- API integrations
+- Security applied from system design
+
+Focus:
+Scalable architecture  
+Automation intelligence  
+Secure digital foundations  
+
+---
+
+### ⚙️ Blackout – Technical Automation System
+
+System designed to automate Android boot processes via ADB in hotel environments.
+
+Technologies:
+PowerShell  
+ADB  
+.bat scripts  
+Process automation  
+
+Impact:
+Reduced technical response time and improved operational efficiency.
+
+---
+
+## 🎓 Education
+
+- Technical Degree in Systems Development  
+- Currently pursuing Analysis and Systems Development  
+
+---
+
+## 🏅 Certifications
+
+### Cloud
+- AWS Training – AWS Academy
+
+### JavaScript
+- Intensive JavaScript – Hashtag Treinamentos
+
+### Automation
+- Arduino & ESP32 Automation – Crescer Indústria de Automações
+
+### CyberSecurity
+- Introduction to CyberSecurity – Cisco
+- CyberSecurity – Cisco
+
+### Python
+- Python – Santander Academy
+
+### Version Control
+- Git & GitHub – DIO
+- Git & GitHub – Santander Academy
+
+---
+
+## 🌍 Languages
+
+- Portuguese – Native
+- Spanish – Advanced
+- English – Basic (reading & writing)
+
+Available for remote collaboration in LATAM markets.
+
+---
+
+## 📬 Contact
 
 <div align="center"> 
   <a href="mailto:joaovictor@email.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-silva-2536922aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -142,29 +223,16 @@ Atuo como **Assistente de TI** no setor hoteleiro, prestando suporte a usuários
 
 ---
 
-
-
-## 🐍 Minhas Contribuições
+## ⚡ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/jvncodez">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jvncodez/jvncodez/output/github-contribution-grid-snake.svg" />
-  </a>
-</div>
-
-
----
-
-## ⚡ Estatísticas
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jvncodez&show_icons=true&theme=radical&border_radius=10" alt="João GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jvncodez&show_icons=true&theme=radical&border_radius=10" />
   <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvncodez&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvncodez&layout=compact&theme=radical&border_radius=10" />
 </div>
 
 ---
 
 <div align="center">
-  ✨ *"A tecnologia move o mundo — e eu escolhi mover com ela."* ✨
+  ✨ Architecture before execution. Security before scale. ✨
 </div>
