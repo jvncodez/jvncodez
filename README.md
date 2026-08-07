@@ -1,238 +1,217 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jvncodez.jvncodez" />
-
-<h1 align="center">João Silva (Jotavê) 👋</h1>
-
-<h3 align="center">Software Architect | Backend | CyberSecurity | SaaS</h3>
-
-<br/>
-
 <div align="center">
 
-"I Don’t Just Build Systems. I Architect Digital Foundations."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030303,50:3B82F6,100:8B5CF6&text=JO%C3%83O%20SILVA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Architecture • Security • Scalability
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=SECURITY+RESEARCHER;WEB+APP+SECURITY+%7C+AI+SECURITY+%7C+SAAS+SECURITY;CLAUDE+VERIFICATION+PROGRAM+(CVP);FOUNDER+%40+VIONSECURITY"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🛡️ VIONSEC AGENT — SYSTEM STATUS
 
-I am a Software Architect in evolution, currently acting as Coordinator of Development and Operations, focused on backend architecture, secure systems and scalable SaaS solutions.
+```bash
+╭──────────────────────────────╮
+│      VIONSEC AGENT v1.0      │
+╰──────────────────────────────╯
 
-My work combines:
+Inicializando reconhecimento...
 
-- Structural backend design  
-- API integrations  
-- Serverless architecture  
-- Automation systems  
-- Cybersecurity applied from the foundation  
+████████████████████ 100%
 
-I don’t just develop features — I design resilient digital structures.
+✔ Escopo carregado
+✔ Motor de vulnerabilidades online
+✔ Módulo AI Security ativo
+✔ Secure SDLC toolkit pronto
 
----
-
-## 🏛 Technical Philosophy
-
-Architecture is not about writing code fast.  
-It is about designing systems that resist.
-
-Security is not an add-on.  
-It is foundation.
-
-Scalability is not improvisation.  
-It is planning.
-
-Every system I design stands on three pillars:
-
-Structure.  
-Protection.  
-Scale.  
-
-Because a ship without a hull never reaches the river.
+STATUS: RESEARCHING 🔍
+```
 
 ---
 
-## 🛠 Core Expertise
+## 👤 whoami
 
-### 🔹 Backend Architecture
-- Node.js
-- TypeScript
-- REST APIs
-- System integrations
-- Modular architecture
-- Clean Code principles
+```javascript
+const joao = {
+  name: "João Silva",
+  alias: "jvncodez",
+  role: "Security Researcher & Cybersecurity Analyst",
+  education: "Graduando em Análise e Desenvolvimento de Sistemas",
+  location: "Brasil 🇧🇷",
 
-### 🔹 Vibe Code & Serverless Architecture
-- Vercel
-- Supabase (Edge Functions)
-- Modal
-- Cursor
-- API-first architecture
+  focus: [
+    "Web Application Security",
+    "Application Security",
+    "API Security",
+    "SaaS Security",
+    "AI Security",
+    "Offensive Security"
+  ],
 
-### 🔹 Programming Languages
-- Python (including AI agents applications)
-- JavaScript
-- TypeScript
-- C++ (Arduino)
+  recognition: "Claude Verification Program (CVP) – Cybersecurity",
 
-### 🔹 Databases
-- MySQL
-- Supabase
+  founder: {
+    company: "VionSecurity",
+    project: "VIONSEC Security Agent",
+    mission: "Automatizar auditorias de segurança e fortalecer o Secure SDLC"
+  },
 
-### 🔹 Automation
-- n8n
-- PowerShell
-- .bat scripting
-- Process optimization
+  currentlySeeking: [
+    "Analista de Segurança da Informação",
+    "Application Security Engineer",
+    "Product Security Engineer",
+    "Security Researcher"
+  ]
+}
+```
 
-### 🔹 Cloud & Infrastructure
-- Docker
-- IT Infrastructure
-- Network Infrastructure
-- AWS (AWS Academy training)
-
-### 🔹 CyberSecurity
-- Vulnerability analysis
-- Pentest practices
-- Ethical hacking fundamentals
-- Security by design mindset
-
-### 🔹 Version Control
-- Git
-- GitHub
+Sou pesquisador em segurança ofensiva com atuação voltada à identificação, validação e reporte
+responsável de vulnerabilidades em aplicações Web, APIs, plataformas SaaS e sistemas desenvolvidos
+com Inteligência Artificial.
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Especializações
 
-### 🌱 Hortec – Automated Agriculture System
-Award-winning educational project.
-
-Designed and developed an automated irrigation system using Arduino (C++) to reduce school absenteeism related to garden maintenance.
-
-Focus:
-Hardware + Software integration  
-Automation logic  
-Problem-solving with real-world impact  
-
----
-
-### 🏥 SayMed – Dental Clinic Management System
-
-Backend architecture and system structuring.
-
-Responsibilities:
-- Database modeling
-- API communication
-- Supabase Edge Functions
-- n8n automation integrations
-- Clean architecture implementation
-
-Focus:
-Scalability  
-Structured backend  
-Service integration  
+| Área | Foco |
+|---|---|
+| 🌐 Web Application Security | Identificação e exploração responsável de vulnerabilidades web |
+| 🧩 Application Security | Revisão e fortalecimento de aplicações em produção |
+| 🔌 API Security | Testes de segurança em APIs REST/GraphQL |
+| ☁️ SaaS Security | Auditoria de plataformas multi-tenant |
+| 🤖 AI Security | Prompt injection, jailbreaks, vazamento de contexto, RAG poisoning |
+| ⚔️ Offensive Security | Pentest e simulação de ataques reais |
+| 🔬 Vulnerability Research | Descoberta e reporte responsável (VDP / Bug Bounty) |
+| 🔐 Secure Coding | Boas práticas e revisão de código seguro |
+| 🏗️ Secure by Design | Segurança desde a concepção da arquitetura |
+| 🔁 DevSecOps | Integração de segurança ao ciclo de desenvolvimento |
 
 ---
 
-### 🚀 VenttureHearth – SaaS Startup
+## 🧰 Arsenal
 
-Acting as Coordinator of Development and Operations.
+<div align="center">
 
-Responsibilities:
-- SaaS architecture design
-- Backend structuring
-- Automation workflows
-- API integrations
-- Security applied from system design
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,vscode,postman,nginx,mysql,javascript,php,aws&perline=7"/>
 
-Focus:
-Scalable architecture  
-Automation intelligence  
-Secure digital foundations  
+<br><br>
 
----
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-3B82F6?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-030303?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-8B5CF6?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-030303?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-8B5CF6?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-3B82F6?style=for-the-badge&logoColor=white)
 
-### ⚙️ Blackout – Technical Automation System
-
-System designed to automate Android boot processes via ADB in hotel environments.
-
-Technologies:
-PowerShell  
-ADB  
-.bat scripts  
-Process automation  
-
-Impact:
-Reduced technical response time and improved operational efficiency.
-
----
-
-## 🎓 Education
-
-- Technical Degree in Systems Development  
-- Currently pursuing Analysis and Systems Development  
-
----
-
-## 🏅 Certifications
-
-### Cloud
-- AWS Training – AWS Academy
-
-### JavaScript
-- Intensive JavaScript – Hashtag Treinamentos
-
-### Automation
-- Arduino & ESP32 Automation – Crescer Indústria de Automações
-
-### CyberSecurity
-- Introduction to CyberSecurity – Cisco
-- CyberSecurity – Cisco
-
-### Python
-- Python – Santander Academy
-
-### Version Control
-- Git & GitHub – DIO
-- Git & GitHub – Santander Academy
-
----
-
-## 🌍 Languages
-
-- Portuguese – Native
-- Spanish – Advanced
-- English – Basic (reading & writing)
-
-Available for remote collaboration in LATAM markets.
-
----
-
-## 📬 Contact
-
-<div align="center"> 
-  <a href="mailto:joaovictor@email.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-silva-2536922aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
 
 ---
 
-## ⚡ GitHub Stats
+## 🚀 VionSecurity — Projeto Principal
+
+> **VIONSEC Security Agent** — agente de segurança com IA integrada, criado para auxiliar
+> desenvolvedores e empresas a identificar falhas em aplicações Web e sistemas baseados em IA,
+> automatizando auditorias e fortalecendo o Secure SDLC (Secure Software Development Life Cycle).
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jvncodez&show_icons=true&theme=radical&border_radius=10" />
-  <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvncodez&layout=compact&theme=radical&border_radius=10" />
+
+[![VionSecurity](https://img.shields.io/badge/VionSecurity-Website-3B82F6?style=for-the-badge)](https://vionsec.com.br)
+
+</div>
+
+---
+
+## 🏅 Reconhecimento
+
+<div align="center">
+
+![CVP](https://img.shields.io/badge/Claude_Verification_Program-Cybersecurity-8B5CF6?style=for-the-badge)
+
+</div>
+
+Reconhecido pelo **Claude Verification Program (CVP) – Cybersecurity**, desenvolvendo pesquisas
+relacionadas à segurança de aplicações modernas e à construção de sistemas mais seguros em um
+cenário impulsionado por Inteligência Artificial.
+
+---
+
+## 🧠 Missão Atual
+
+```bash
+> Carregando objetivos...
+
+[██████████] Pesquisa de vulnerabilidades
+
+[██████████] Bug Bounty & Responsible Disclosure
+
+[████████░░] AI Security Research
+
+[███████░░░] Ferramentas de automação ofensiva/defensiva
+
+STATUS:
+Buscando oportunidades como Security Researcher / AppSec / ProdSec 🎯
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jvncodez&show_icons=true&hide_border=true&bg_color=030303&title_color=3B82F6&text_color=EDEDED&icon_color=8B5CF6"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvncodez&layout=compact&hide_border=true&bg_color=030303&title_color=3B82F6&text_color=EDEDED"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jvncodez&hide_border=true&background=030303&border=141414&stroke=3B82F6&ring=8B5CF6&fire=3B82F6&currStreakLabel=EDEDED"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Grid
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jvncodez/jvncodez/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🌎 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-silva-2536922aa/">
+<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/jvncodes">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://vionsec.com.br">
+<img src="https://img.shields.io/badge/VionSecurity-030303?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  ✨ Architecture before execution. Security before scale. ✨
+
+### 🛡️ "Segurança não é um destino, é um processo contínuo."
+
+<img src="https://komarev.com/ghpvc/?username=jvncodez&style=for-the-badge&color=3B82F6"/>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:030303,50:3B82F6,100:8B5CF6"/>
