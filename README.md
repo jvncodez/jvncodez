@@ -10,9 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://vionsec.com.br">
-<img src="https://img.shields.io/badge/VionSec-0D1117?style=for-the-badge&logo=shield&logoColor=58A6FF"/>
-</a>
+<img src="https://img.shields.io/badge/VionSec-Security%20Research-0D1117?style=for-the-badge&logo=shield&logoColor=58A6FF"/>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Cybersecurity-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -98,21 +96,13 @@ A pesquisa explora como agentes e modelos de IA podem auxiliar processos de **Ap
 VIONSEC SECURITY AGENT
 │
 ├── Application Security
-│
 ├── Web Security
-│
 ├── API Security
-│
 ├── AI / LLM Security
-│
 ├── Vulnerability Discovery
-│
 ├── Security Automation
-│
 ├── Secure Code Analysis
-│
 ├── Secure SDLC
-│
 └── Offensive Security
 ```
 
@@ -120,15 +110,7 @@ O objetivo da pesquisa é estudar formas de integrar:
 
 **Cybersecurity + Offensive Security + Artificial Intelligence + Automation**
 
-para auxiliar na identificação e compreensão de vulnerabilidades durante o ciclo de desenvolvimento de software.
-
-<div align="center">
-
-<a href="https://vionsec.com.br">
-<img src="https://img.shields.io/badge/VIONSEC-ACCESS%20PROJECT-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+para auxiliar na identificação, análise e compreensão de vulnerabilidades durante o ciclo de desenvolvimento de software.
 
 ---
 
@@ -283,10 +265,6 @@ Tenho interesse em oportunidades onde possa atuar diretamente com **segurança d
 
 <a href="https://instagram.com/jvncodes">
 <img src="https://img.shields.io/badge/Instagram-jvncodes-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
-</a>
-
-<a href="https://vionsec.com.br">
-<img src="https://img.shields.io/badge/VionSec-vionsec.com.br-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
